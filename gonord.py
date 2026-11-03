@@ -20,7 +20,7 @@ def convert_images_in_folder(folder_path, output_folder):
                     print(f"Error processing {image_path}: {e}")
 
 # Specify the folder containing images
-input_folder = "/home/wterhune/Wallpapers/Nature"
+input_folder = "/home/wterhune/Wallpapers/Inbox"
 
 # Specify the output folder
 output_folder = "/home/wterhune/Wallpapers/Nord"
