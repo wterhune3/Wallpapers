@@ -24,7 +24,7 @@ def convert_images_in_folder(folder_path, output_folder):
     print("Conversion complete!")
 
 # Specify the folder containing images
-input_folder = "/home/wterhune/Wallpapers/Inbox"
+input_folder = "/home/wterhune/Downloads"
 
 # Specify the output folder
 output_folder = "/home/wterhune/Wallpapers/Nord"
